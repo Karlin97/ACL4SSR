@@ -1,0 +1,14 @@
+# 韩国影音
+
+# 影视：Naver TV、V LIVE、KBS Onair、MBC Onair、SBS Onair、TVING Onair、JTBC Onair
+DOMAIN-SUFFIX,tv.naver.com
+DOMAIN-SUFFIX,vlive.tv
+DOMAIN-SUFFIX,kbs.co.kr
+DOMAIN-SUFFIX,imbc.com
+DOMAIN-SUFFIX,sbs.co.kr
+DOMAIN-SUFFIX,tving.com
+DOMAIN-SUFFIX,jtbc.joins.com
+
+# 音乐：Melon
+PROCESS-NAME,Melon
+DOMAIN-SUFFIX,melon.com
